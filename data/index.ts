@@ -37,7 +37,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "İlkem:   ",
+    title: "İlkem: Faydayı ararken verimi göz ardı etmemek ",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -75,9 +75,8 @@ export const projects = [
     des: "Türk Ceza Kanunu verileriyle donatılmış hızlı kayank aramaya yarayan LLM projesi",
     img: "/Proje1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "/ui.earth.com",
+    link: "https://pdf-chat-ai-sdk-master.vercel.app/",
   },
- 
 ];
 
 export const testimonials = [
@@ -181,6 +180,6 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/mehmetsungurmutlu"
   },
-
 ];

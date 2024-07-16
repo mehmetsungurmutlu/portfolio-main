@@ -59,7 +59,7 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Yazılım ve yapay zeka ile uğraşan hukuka meraklı bir gencim.          </p>
 
-          <a href="#projects">
+          <a href="https://pdf-chat-ai-sdk-master.vercel.app/">
             <MagicButton
               title="Projelerime göz atın"
               icon={<FaLocationArrow />}

@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Sungur's Portfoilo",
-  description: "Modern & Minimal JS Mastery Portfolio",
+  description: "Modern & Minimal Sungur Portfolio",
 };
 
 export default function RootLayout({
@@ -21,6 +21,7 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/Lady Justice.png" sizes="any" />
       </head>
+      <meta name="google-site-verification" content="q0rJDNslhfk8LFXbMP2mjZrR3Wb9bT573pqT3qvfh5E" />
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"

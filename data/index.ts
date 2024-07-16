@@ -72,7 +72,7 @@ export const projects = [
   {
     id: 1,
     title: "Hukuki Kaynak Asistanı Demo",
-    des: "Türk Ceza Kanunu verileriyle donatılmış hızlı kayank aramaya yarayan llm projesi.",
+    des: "Türk Ceza Kanunu verileriyle donatılmış hızlı kayank aramaya yarayan llm projesi",
     img: "/Proje1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
     link: "/ui.earth.com",
